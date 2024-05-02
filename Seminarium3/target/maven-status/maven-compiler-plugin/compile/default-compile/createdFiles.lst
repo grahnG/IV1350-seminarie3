@@ -1,0 +1,14 @@
+com\mycompany\seminarium3\integration\InventorySystem.class
+com\mycompany\seminarium3\controller\Controller.class
+com\mycompany\seminarium3\integration\ItemDTO.class
+com\mycompany\seminarium3\model\Payment.class
+com\mycompany\seminarium3\integration\AccountingSystem.class
+com\mycompany\seminarium3\model\Sale.class
+com\mycompany\seminarium3\model\Register.class
+com\mycompany\seminarium3\startup\Main.class
+com\mycompany\seminarium3\integration\SystemCreator.class
+com\mycompany\seminarium3\Seminarium3.class
+com\mycompany\seminarium3\view\View.class
+com\mycompany\seminarium3\model\SaleDTO.class
+com\mycompany\seminarium3\model\Receipt.class
+com\mycompany\seminarium3\integration\DiscountSystem.class
